@@ -1,0 +1,11 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Un lenguaje de programación puede ser utilizado en algunos sistemas operativos y no en otros debido a diferencias en la implementación y compatibilidad de ese lenguaje en cada sistema. Cada sistema operativo puede tener su propio conjunto de herramientas y bibliotecas que facilitan la ejecución de programas escritos en un lenguaje en particular. Por lo tanto, si un sistema operativo no proporciona el entorno adecuado para ejecutar un lenguaje de programación específico, no se podrá utilizar en ese sistema.
+
+¿Qué tipo de máquina virtual es virtualBox?
+
+VirtualBox es una máquina virtual de software que permite crear y ejecutar máquinas virtuales en un host. Funciona como un hipervisor de tipo 2, lo que significa que se ejecuta como una aplicación en un sistema operativo existente y proporciona un entorno virtualizado para ejecutar otros sistemas operativos. VirtualBox permite crear y ejecutar múltiples máquinas virtuales simultáneamente en un único host, lo que facilita la prueba de software, la configuración de entornos de desarrollo y la virtualización de diferentes sistemas operativos.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Si una máquina virtual se rompe, generalmente no afecta a las demás máquinas virtuales instaladas en el mismo host. Cada máquina virtual se ejecuta de forma aislada y no tiene acceso directo al hardware físico del host ni a otras máquinas virtuales. Si una máquina virtual falla o se corrompe, normalmente solo afectará a esa máquina virtual en particular y no afectará a las demás. Sin embargo, si el fallo o la corrupción está relacionada con el hipervisor o con recursos compartidos del host, podría haber un impacto en el rendimiento o la estabilidad de otras máquinas virtuales. Es importante mantener las máquinas virtuales actualizadas y asegurarse de tener copias de seguridad adecuadas para evitar la pérdida de datos o problemas con otras máquinas virtuales en caso de fallas.
