@@ -1,0 +1,11 @@
+Direcciones maquina virtual:
+
+IP: 192.168.1.10 (estas son distintas)
+
+MAC: HWaddr 08:00:27:62:7a:6c 
+
+IP PUBLICA: 167.57.106.150 (esta me sale la misma en ambas)
+
+
+
+
